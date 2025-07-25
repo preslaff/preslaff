@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Preslaff 👋
 
-<!--
-**preslaff/preslaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Founder & Data Scientist** at **CDSV** — a Machine Learning lab specializing in R&D of cutting-edge ML and AI applications.
+- **CTO & Senior Data Scientist/ML Engineer** at **AIDENTIT** — a consultancy agency dedicated to business automation using advanced AI models and paradigms.
+- Passionate about creating practical, high-impact solutions.
+
+## 🛠️ Projects
+
+- **Product Price Checker**  
+- **AIDENTIT Content Factory**  
+All my projects are my favorite, but these are my latest focus.
+
+## 🐾 Hobbies
+
+- Dog lover
+- Hiking enthusiast
+
+## 💡 Motto
+
+> "Just get the job done."  
+> — Linus Torvalds
+
+---
+
+Thanks for visiting! Feel free to connect or explore my repositories.
