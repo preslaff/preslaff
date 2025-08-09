@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Projects
 
+- **PaperlessAI Invoice Extractor
 - **Product Price Checker**  
 - **AIDENTIT Content Factory**  
 All my projects are my favorite, but these are my latest focus.
