@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- **Founder & Data Scientist** at **CDSV** — a Machine Learning lab specializing in R&D of cutting-edge ML and AI applications.
-- **CTO & Senior Data Scientist/ML Engineer** at **AIDENTIT** — a consultancy agency dedicated to business automation using advanced AI models and paradigms.
+- **First hand** at **CDSV** — a Machine Learning lab specializing in R&D of cutting-edge ML and AI applications.
+- **Helping hand** at **AIDENTIT** — a consultancy agency dedicated to business automation using advanced AI models and paradigms.
 - Passionate about creating practical, high-impact solutions.
 
 ## 🛠️ Projects
