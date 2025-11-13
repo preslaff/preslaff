@@ -135,7 +135,7 @@ OpenAI, Gemini, Claude, LLaMA · Embeddings · RAG · Prompt engineering · Eval
 LangChain · LangGraph · Custom multi-agent systems · Tool-calling · Routing  
 
 **Vector Search & Storage:**  
-Pinecone · FAISS · Chroma  
+PostgreSQL (pgvector) · Qdrant · Pinecone · FAISS · Chroma  
 
 **ML / Deep Learning:**  
 PyTorch · TensorFlow · Keras · YOLO · CLIP · OCR pipelines  
