@@ -30,6 +30,20 @@ I like working at the intersection of **LLMs, vector search, and practical busin
 
 ### 1️⃣ AI Systems & Automation
 
+#### 🗺️ Tourism AI Platform (Private)
+**Type:** Full-stack AI tourism product
+**Tech:** LangGraph, Claude, FastAPI, Next.js, PostgreSQL (pgvector + PostGIS), Redis, BGE-M3 embeddings, Google Places API
+
+AI-powered tourism platform for Bulgaria featuring:
+- **LangGraph agents** for recommendations, multi-day itinerary planning, and conversational booking
+- **RAG search** over member content using BGE-M3 embeddings and pgvector
+- **Geospatial intelligence** via PostGIS for route optimisation and nearby attractions
+- Full **Next.js frontend** with autocomplete, maps, and multi-turn chat
+
+> Focus: agentic orchestration, RAG, geospatial AI, full-stack product delivery
+
+---
+
 #### 🔍 AI Code Reviewer (LangGraph Multi-Agent System)
 **Type:** Developer tool / CI agent  
 **Tech:** LangGraph, OpenAI/LLMs, GitHub Actions, Python, Docker  
