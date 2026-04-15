@@ -67,7 +67,7 @@ End-to-end invoice extraction system:
 - Normalises and prepares data for downstream accounting / analytics  
 
 > Focus: applied NLP, OCR, data pipelines, business automation
-
+**DEMO:** https://paperlessai.app
 ---
 
 #### 💬 Voice AI Receptionist (Bulgarian)
