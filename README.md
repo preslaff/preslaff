@@ -41,6 +41,7 @@ AI-powered tourism platform for Bulgaria featuring:
 - Full **Next.js frontend** with autocomplete, maps, and multi-turn chat
 
 > Focus: agentic orchestration, RAG, geospatial AI, full-stack product delivery
+**WEBSITE:** https://thewonderfulbulgaria.com/
 
 ---
 
