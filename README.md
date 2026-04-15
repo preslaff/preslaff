@@ -97,6 +97,7 @@ AI-powered compliance hub that:
 - Surfaces non-compliance and process gaps  
 
 > Focus: domain-specific AI, structured knowledge, high-stakes workflows
+**DEMO:**https://compliance.cdsv.dev/
 
 ---
 
