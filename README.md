@@ -111,6 +111,7 @@ A toy recognition engine that:
 - Enables **fast toy identification at POS** (stock in/out, automation)  
 
 > Focus: CLIP, vector search, practical CV for retail
+**DEMO:** https://colab.research.google.com/drive/1R7z3oUPwFUimsx9J5OGB1OWXw12RZALh?usp=sharing
 
 ---
 
