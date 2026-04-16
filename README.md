@@ -41,6 +41,7 @@ AI-powered tourism platform for Bulgaria featuring:
 - Full **Next.js frontend** with autocomplete, maps, and multi-turn chat
 
 > Focus: agentic orchestration, RAG, geospatial AI, full-stack product delivery
+
 **WEBSITE:** https://thewonderfulbulgaria.com/
 
 ---
@@ -68,6 +69,7 @@ End-to-end invoice extraction system:
 - Normalises and prepares data for downstream accounting / analytics  
 
 > Focus: applied NLP, OCR, data pipelines, business automation
+
 **DEMO:** https://paperlessai.app
 ---
 
@@ -97,7 +99,8 @@ AI-powered compliance hub that:
 - Surfaces non-compliance and process gaps  
 
 > Focus: domain-specific AI, structured knowledge, high-stakes workflows
-**DEMO:**https://compliance.cdsv.dev/
+
+**DEMO:** https://compliance.cdsv.dev/
 
 ---
 
@@ -113,6 +116,7 @@ A toy recognition engine that:
 - Enables **fast toy identification at POS** (stock in/out, automation)  
 
 > Focus: CLIP, vector search, practical CV for retail
+
 **DEMO:** https://colab.research.google.com/drive/1R7z3oUPwFUimsx9J5OGB1OWXw12RZALh?usp=sharing
 
 ---
