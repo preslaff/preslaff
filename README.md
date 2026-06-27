@@ -28,7 +28,35 @@ I like working at the intersection of **LLMs, vector search, and practical busin
 
 ## ⭐ Featured Projects
 
-### 1️⃣ AI Systems & Automation
+### 1️⃣ Generative Media & Video Pipelines
+
+#### 🎬 TrainGen – Auto-Generated Training Videos
+**Type:** Living documentation / video automation
+**Tech:** Playwright, Claude (vision + text), TTS (OmniVoice-BG), FFmpeg, FastAPI / Next.js targets
+
+Auto-generated, narrated, dual-language (BG + EN) training videos that:
+- Drive the **real platform UI** via Playwright and produce subtitled MP4 walkthroughs
+- Treat videos as a **build artifact** — re-run the pipeline when the UI changes and every affected video regenerates
+- Use a **multimodal discovery layer** where Claude vision binds controls the DOM names badly and proposes new scenarios to teach
+
+> Focus: agentic pipelines, multimodal UI understanding, deterministic media generation
+
+---
+
+#### 🎥 Video Orchestrator – Local AI Video Pipeline
+**Type:** Autonomous video-production pipeline
+**Tech:** Gemma (multimodal), ComfyUI (FLUX.2 / Wan 2.2 / ReActor), NiceGUI, FastAPI, SQLite
+
+A self-contained pipeline that turns a text idea into consistent video clips entirely on your own machine:
+- **Self-evaluating loop** — Gemma scores every keyframe/clip and retries with a corrected prompt
+- **Phased, resumable state machine** with human-approval gates, fit to a 16GB VRAM budget
+- Deterministic Python core directs both models; Gemma is called as a **tool**, never as an autonomous planner
+
+> Focus: local-first generative AI, self-evaluating loops, deterministic orchestration
+
+---
+
+### 2️⃣ AI Systems & Automation
 
 #### 🗺️ Tourism AI Platform (Private)
 **Type:** Full-stack AI tourism product
@@ -87,7 +115,7 @@ A voice AI agent that:
 
 ---
 
-### 2️⃣ AI for Compliance & Operations
+### 3️⃣ AI for Compliance & Operations
 
 #### 🛡️ Compliance Hub (Private)
 **Type:** Compliance management platform  
@@ -104,7 +132,7 @@ AI-powered compliance hub that:
 
 ---
 
-### 3️⃣ Computer Vision & Retrieval
+### 4️⃣ Computer Vision & Retrieval
 
 #### 🧸 Toy Recognition System (Private)
 **Type:** Computer vision / retrieval system  
@@ -117,11 +145,12 @@ A toy recognition engine that:
 
 > Focus: CLIP, vector search, practical CV for retail
 
-**DEMO:** https://colab.research.google.com/drive/1R7z3oUPwFUimsx9J5OGB1OWXw12RZALh?usp=sharing
+**DEMO:** https://toys.cdsv.dev
+**NOTEBOOK:** https://colab.research.google.com/drive/1R7z3oUPwFUimsx9J5OGB1OWXw12RZALh?usp=sharing
 
 ---
 
-### 4️⃣ AI Tutors & Education Platforms
+### 5️⃣ AI Tutors & Education Platforms
 
 #### 📊 DS-Tutor (Public)
 **Repo:** [dstutor](https://github.com/preslaff/dstutor)  
