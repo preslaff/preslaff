@@ -15,7 +15,7 @@ ML research and business analysis.
 - **TrainGen**: narrated, bilingual training videos generated from a live product UI.
 
 **Speech AI**
-- **Bulgarian ASR**: speech recognition model trained from scratch on 2,200+ h of Bulgarian; 3.93% WER on unseen parliament sessions, plus a streaming version (~640 ms latency) that holds up on phone-line audio.
+- **Bulgarian ASR**: speech recognition model trained from scratch on 2,200+ h of Bulgarian; 3.93% WER on unseen parliament sessions, plus a streaming version (~640 ms latency) that holds up on phone-line audio. [Demo](https://asr.cdsv.dev)
 - **Bulgarian TTS**: Bulgarian layer for the open-source OmniVoice TTS, with native accent, correct lexical stress and a cloned narrator voice; it voices vorch and TrainGen.
 - **Voice AI Receptionist**: Bulgarian-speaking voice agent that takes calls and books appointments.
 
