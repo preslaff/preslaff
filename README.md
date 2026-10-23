@@ -2,7 +2,7 @@
 
 **AI Engineer & Researcher** · LLM systems · Speech & generative media · Resilient geospatial platforms
 
-[aidentit.com](https://aidentit.com) · [Email](mailto:preslav.penev@gmail.com)
+[aidentit.com](https://aidentit.com) · [LinkedIn](https://www.linkedin.com/in/preslavpp) · [Email](mailto:preslav.penev@gmail.com)
 
 I research how AI models behave and build systems that hold up in production, from Bulgarian speech
 recognition and agentic RAG platforms to generative media pipelines. My background is in data science,
