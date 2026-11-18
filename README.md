@@ -1,6 +1,6 @@
 # Preslav Penev
 
-· LLM systems · Speech & Video Generative Media · Resilient geospatial platforms
+LLM systems · Speech & Video Generative Media · Resilient geospatial platforms
 
 [cdsv.dev](https://cdsv.dev) · [aidentit.com](https://aidentit.com) · [LinkedIn](https://www.linkedin.com/in/preslavpp) · [Email](mailto:preslav.penev@gmail.com)
 
