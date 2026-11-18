@@ -1,10 +1,10 @@
 # Preslav Penev
 
-**AI Engineer & Researcher** · LLM systems · Speech & generative media · Resilient geospatial platforms
+· LLM systems · Speech & Video Generative Media · Resilient geospatial platforms
 
-[aidentit.com](https://aidentit.com) · [LinkedIn](https://www.linkedin.com/in/preslavpp) · [Email](mailto:preslav.penev@gmail.com)
+[cdsv.dev](https://cdsv.dev) · [aidentit.com](https://aidentit.com) · [LinkedIn](https://www.linkedin.com/in/preslavpp) · [Email](mailto:preslav.penev@gmail.com)
 
-I research how AI models behave and build systems that hold up in production, from Bulgarian speech
+I research how ML and AI models behave and design build systems that hold up in production, from Bulgarian speech
 recognition and agentic RAG platforms to generative media pipelines. My background is in data science,
 ML research and business analysis.
 
